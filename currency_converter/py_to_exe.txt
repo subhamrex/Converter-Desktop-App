@@ -1,0 +1,20 @@
+1.Convert ‘.py’ to ‘.exe’ :
+Python has a module called ‘pyinstaller’ which can convert any python file to an application.
+To install pyinstaller quickly go to the search bar and type Command Prompt, but make sure to open it with ‘RUN AS ADMINISTRATOR’.
+
+2.pip install pefile
+
+3.pip install pyinstaller
+
+4.pip install auto-py-to-exe
+
+5.To open auto-py-to-exe, type in the terminal :
+	auto-py-to-exe
+
+6.Now fill all the settings:
+Script Location : py file (Full Path)
+Onefile : One File (we want all things in one file)
+Console Window: Window Based (Don’t want to show console)
+Icon: .ico file (Full Path)
+Additional Files: images file(Full Path with mentioned ‘.img’)
+
